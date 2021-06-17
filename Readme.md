@@ -17,5 +17,10 @@
 		$ pip install ipykernel
 		$ python -m ipykernel install --user --name=environment_name
 
+		
 **
-
+This project was built on python 3.8
+	Install dependencies using follwing-	
+		$ pip install -r requirements.txt
+	
+	
