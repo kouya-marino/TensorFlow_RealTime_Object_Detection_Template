@@ -1,4 +1,5 @@
-**(Recommended)LINUX- 
+**(Recommended)LINUX -
+ 
 	Its recommended to have a python env for your project, using the follwing command:
 		$ python -m venv environment_name
 	
