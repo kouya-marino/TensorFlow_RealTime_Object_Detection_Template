@@ -1,4 +1,5 @@
-**(Recommended)LINUX -
+**
+(Recommended)-
  
 	Its recommended to have a python env for your project, using the follwing command:
 		$ python -m venv environment_name
@@ -20,7 +21,9 @@
 		
 **
 This project was built on python 3.8
+
 	Install dependencies using follwing-	
+
 		$ pip install -r requirements.txt
 	
 	
