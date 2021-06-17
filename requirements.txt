@@ -1,6 +1,6 @@
 numpy
 opencv-python
-pyqt5 
-lxml
+pyqt5==5.10.1
+lxml==4.6.3
 tensorflow==2.4.1
 
